@@ -1,0 +1,58 @@
+*{
+    margin: 0%;
+}
+.page-wrapper{
+    width: 100%;
+    height: 100vh;
+    font-size: 0%;
+    /* overflow: hidden; */
+}
+.head{
+    width: 90%;
+    height: 10%;
+    border-bottom: 1px solid gray;
+    margin-left: 10%;
+    font-size: 35px;
+    padding-top: 2.2%;
+    box-sizing: border-box;
+    color: gray;
+}
+.himg{
+    width: 13%;
+    height: 50vh;
+    display: inline-block;
+    margin-top: 19.8%;
+}
+.lcol{
+    width: 15%;
+    height: 90vh;
+    background-color: lawngreen;
+    margin-left: 42%;
+    display: inline-block;
+    overflow: hidden;
+    box-sizing: border-box;
+}
+.img2{
+    width: 80%;
+    height: 5vh;
+    margin: 10px;
+    margin-left: 20px;
+    /* overflow: hidden; */
+}
+.ccol{
+    background-color: aquamarine;
+    margin-left: 0%;
+}
+.rcol{
+    background-color: deeppink;
+    margin-left: 0%;
+}
+.imgbox{
+    width: 100%;
+    height: 10vh;
+}
+.color{
+    width: 98%;
+    height: 70vh;
+    color: black;
+}
